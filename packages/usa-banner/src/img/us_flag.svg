@@ -1,1 +1,82 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 44"><path fill="#fff" d="M0 0h64v44H0z"/><path fill="#da3e1f" d="M0 0h64v4H0zm0 40h64v4H0zm0-8h64v4H0zm0-8h64v4H0zm0-8h64v4H0zm0-8h64v4H0z"/><path fill="#1e33b1" d="M0 0h32v28H0z"/><path fill="#fff" d="M8 12h4v4H8zm16 0h4v4h-4zm-8 0h4v4h-4zm4-8h4v4h-4zm-8 0h4v4h-4zM4 20h4v4H4zm16 0h4v4h-4zm-8 0h4v4h-4zM4 4h4v4H4z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1900" height="1000" viewBox="0 0 1900 1000" version="1.1">
+  <!-- Background: 13 stripes -->
+  <rect width="1900" height="1000" fill="#da3e1f"/>
+  <rect width="1900" height="76.92" y="76.92" fill="#FFFFFF"/>
+  <rect width="1900" height="76.92" y="230.77" fill="#FFFFFF"/>
+  <rect width="1900" height="76.92" y="384.62" fill="#FFFFFF"/>
+  <rect width="1900" height="76.92" y="538.46" fill="#FFFFFF"/>
+  <rect width="1900" height="76.92" y="692.31" fill="#FFFFFF"/>
+  <rect width="1900" height="76.92" y="846.15" fill="#FFFFFF"/>
+
+  <!-- Blue Canton (Union) -->
+  <rect width="760" height="538.46" fill="#1e33b1"/>
+
+  <!-- Stars -->
+  <g fill="#FFFFFF">
+    <!-- 5 rows of 6 stars -->
+    <g>
+      <circle cx="71.67" cy="46.92" r="30"/>
+      <circle cx="188.33" cy="46.92" r="30"/>
+      <circle cx="315.00" cy="46.92" r="30"/>
+      <circle cx="441.67" cy="46.92" r="30"/>
+      <circle cx="568.33" cy="46.92" r="30"/>
+      <circle cx="685.00" cy="46.92" r="30"/>
+
+      <circle cx="71.67" cy="144.62" r="30"/>
+      <circle cx="188.33" cy="144.62" r="30"/>
+      <circle cx="315.00" cy="144.62" r="30"/>
+      <circle cx="441.67" cy="144.62" r="30"/>
+      <circle cx="568.33" cy="144.62" r="30"/>
+      <circle cx="685.00" cy="144.62" r="30"/>
+
+      <circle cx="71.67" cy="252.31" r="30"/>
+      <circle cx="188.33" cy="252.31" r="30"/>
+      <circle cx="315.00" cy="252.31" r="30"/>
+      <circle cx="441.67" cy="252.31" r="30"/>
+      <circle cx="568.33" cy="252.31" r="30"/>
+      <circle cx="685.00" cy="252.31" r="30"/>
+
+      <circle cx="71.67" cy="360.00" r="30"/>
+      <circle cx="188.33" cy="360.00" r="30"/>
+      <circle cx="315.00" cy="360.00" r="30"/>
+      <circle cx="441.67" cy="360.00" r="30"/>
+      <circle cx="568.33" cy="360.00" r="30"/>
+      <circle cx="685.00" cy="360.00" r="30"/>
+
+      <circle cx="71.67" cy="467.69" r="30"/>
+      <circle cx="188.33" cy="467.69" r="30"/>
+      <circle cx="315.00" cy="467.69" r="30"/>
+      <circle cx="441.67" cy="467.69" r="30"/>
+      <circle cx="568.33" cy="467.69" r="30"/>
+      <circle cx="685.00" cy="467.69" r="30"/>
+    </g>
+
+    <!-- 4 rows of 5 stars -->
+    <g transform="translate(63.33, 53.85)">
+      <circle cx="66.67" cy="36.92" r="30"/>
+      <circle cx="188.33" cy="36.92" r="30"/>
+      <circle cx="315.00" cy="36.92" r="30"/>
+      <circle cx="441.67" cy="36.92" r="30"/>
+      <circle cx="564.33" cy="36.92" r="30"/>
+
+      <circle cx="66.67" cy="144.62" r="30"/>
+      <circle cx="188.33" cy="144.62" r="30"/>
+      <circle cx="315.00" cy="144.62" r="30"/>
+      <circle cx="441.67" cy="144.62" r="30"/>
+      <circle cx="564.33" cy="144.62" r="30"/>
+
+      <circle cx="66.67" cy="252.31" r="30"/>
+      <circle cx="188.33" cy="252.31" r="30"/>
+      <circle cx="315.00" cy="252.31" r="30"/>
+      <circle cx="441.67" cy="252.31" r="30"/>
+      <circle cx="564.33" cy="252.31" r="30"/>
+
+      <circle cx="66.67" cy="360.00" r="30"/>
+      <circle cx="188.33" cy="360.00" r="30"/>
+      <circle cx="315.00" cy="360.00" r="30"/>
+      <circle cx="441.67" cy="360.00" r="30"/>
+      <circle cx="564.33" cy="360.00" r="30"/>
+    </g>
+  </g>
+</svg>
